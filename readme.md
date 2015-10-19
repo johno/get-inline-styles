@@ -1,4 +1,4 @@
-# get-inline-styles [![Build Status](https://secure.travis-ci.org/johnotander/get-inline-styles.png?branch=master)](https://travis-ci.org/johnotander/get-inline-styles)
+# get-inline-styles [![Build Status](https://secure.travis-ci.org/johnotander/get-inline-styles.png?branch=master)](https://travis-ci.org/johnotander/get-inline-styles) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 Get inlined CSS from an HTML string.
 

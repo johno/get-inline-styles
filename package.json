@@ -1,12 +1,12 @@
 {
   "name": "get-inline-styles",
   "description": "Get inlined CSS from an HTML string.",
+  "version": "1.0.0",
   "author": {
     "name": "John Otander",
     "email": "johnotander@gmail.com",
     "url": "johnotander.com"
   },
-  "version": "0.0.1",
   "main": "index.js",
   "files": [
     "index.js"
