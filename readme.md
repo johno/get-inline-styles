@@ -13,7 +13,7 @@ npm install --save get-inline-styles
 ```javascript
 var getInlineStyles = require('get-inline-styles')
 
-getInlineStyles('<h2 style="color: blue;">Hello, world!</h2>)
+getInlineStyles('<h2 style="color: blue;">Hello, world!</h2>')
 // => [{ tag: 'h2', style: 'color: blue;' }]
 ```
 
